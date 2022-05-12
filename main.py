@@ -1,5 +1,4 @@
 # Test App: Detection of Road Surface Crack
-# Please excuse for the brevity.  This is a test app and not for Production.
 
 import cv2
 # import datetime
